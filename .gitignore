@@ -1,0 +1,7 @@
+node_modules
+*.html
+*.info
+coverage/lcov-report
+
+
+dist/
