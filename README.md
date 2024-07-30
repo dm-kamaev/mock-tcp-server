@@ -1,4 +1,4 @@
-# Enum Object
+# Mock Tcp Server
 
 [![Actions Status](https://github.com/dm-kamaev/mock-tcp-server/workflows/Build/badge.svg)](https://github.com/dm-kamaev/mock-tcp-server/actions) ![Coverage](https://github.com/dm-kamaev/mock-tcp-server/blob/master/coverage/badge-statements.svg)
 
